@@ -1,0 +1,29 @@
+1. What is Emmet ?
+
+=>Emmet is a web development tool that helps developers to
+write HTML and CSS more efficiently and quickly.
+
+=>It provides a set of abbreviations and shortcuts to generate HTML code quicly.
+
+Example :
+
+div>div>h1 generates
+
+<div>
+    <div>
+        <h1></h1>
+    </div>
+</div>
+
+div+input+p generates
+
+<div></div>
+<input type="text">
+<p></p>
+
+h1*4 generates
+
+<h1></h1>
+<h1></h1>
+<h1></h1>
+<h1></h1>
